@@ -1,0 +1,66 @@
+#eee{
+      display: flex;
+        justify-content: center;
+            align-items: center;
+                margin-top: 70px;
+}
+#box000{
+    background-color: aqua;
+        height: 800px; /* Define a altura para 150 pixels */
+                width: 30%; /* Define a largura para - pixels */
+                     
+        
+}
+
+#qqq{
+            display: flex;
+
+}
+
+#rrr{
+ background-color: chartreuse;
+
+}
+
+#box111{
+    background-color: blue;
+            height: 60px;
+                width: 98.3%;
+                    margin: 5px;
+                        font-size: 25px;
+
+}
+
+#box222{
+    background-color: brown;
+        height: 140px;
+            width: 98.3%;
+                margin: 5px;
+                     font-size: 25px;
+                }
+
+#box333{
+    background-color: blueviolet;
+        height: 510px;
+            width: 60%;
+                margin-left: 5px;
+                    font-size: 25px;
+}
+
+#box444{
+    background-color: rgb(199, 230, 230);
+        width: 40%;
+            margin-left: 5px;
+                 margin-right: 5px;
+                    font-size: 25px;
+}
+
+#box555{
+     background-color: rgb(255, 238, 0);
+            height: 60px;
+                width: 98.3%;
+                    margin: 5px;
+                        font-size: 25px;
+
+}
+

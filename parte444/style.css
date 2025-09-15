@@ -1,0 +1,73 @@
+#ooo{
+    display: flex;
+        justify-content: center;
+            
+}
+
+#box000{
+    background-color: rgb(115, 222, 255);
+        width: 65%;
+            height: 650px;
+                margin-top: 100px;
+}   
+
+.ttt{
+    display: flex;
+
+}
+
+#box111{
+    background-color: brown;
+        width: 99.7%;
+            height: 110px;
+                text-align: center;
+                    font-size: 25px;
+                
+}
+
+#box222{
+    background-color: rgb(255, 136, 0);
+        width: 74.7%;
+            height: 400px;
+                text-align: center;
+                    font-size: 25px;
+
+
+}
+
+#box333{
+    background-color: darkblue;
+        width: 25%;
+            height: 400px;
+                text-align: center; 
+                    font-size: 25px;
+
+}
+
+.box46{
+    background-color: chartreuse;
+        width: 25%;
+            height: 136px;
+                    margin-left: 4px;
+                        margin-right: 4px;
+                            text-align: center;
+                                font-size: 25px;
+                            
+
+
+}
+
+#box555{
+    background-color: chartreuse;
+        width: 50%;
+            height: 136px;
+                text-align: center;
+                    font-size: 25px;
+
+               
+
+
+}
+
+
+

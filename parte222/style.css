@@ -1,0 +1,167 @@
+#box000{
+    background-color: cyan;
+            height: 800px;
+                width: 50%;
+                    margin-top: 70px;
+                        margin-left: 400px;
+                             border-radius: 10px;
+                           
+}
+
+#hhh{
+    display: flex;
+        height: 69%;
+}
+
+#yyy{
+   
+       
+}
+
+#ooo{
+    display: flex;
+       
+            height: 15%;
+                width: 100%;
+
+                    
+
+}
+
+#qqq{
+    
+            height: 350px;
+                width: max-content;
+                    display: flex;
+}
+
+#kkk{
+    display: flex;
+      justify-content: center; /* Centraliza horizontalmente */
+  align-items: center;
+}
+
+#bbb{
+
+
+}
+
+#box111{
+    background-color: rgb(55, 138, 106);
+        height: 15%;
+            width: 100%;
+                border-radius: 10px;
+                    display: flex;
+                            justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+
+}
+
+#box222{
+    background-color: rgb(64, 90, 29);
+        width: 289px;
+            height: 170px;
+                border-radius: 10px;
+                    margin-top: 10px;
+                        display: flex;
+                            justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+
+}
+
+#box333{
+     background-color: rgb(220, 173, 20);
+        width: 353px;
+            height: 350px;
+                border-radius: 10px;
+                    margin-top: 10px;
+                        display: flex;
+                            justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+                                        margin-left: 10px;
+
+}
+
+#box444{
+    background-color: rgb(20, 220, 70);
+        width: 289px; /* Define a largura para - pixels */
+            height: 170px; /* Define a altura para 150 pixels */
+                border-radius: 10px;
+                    margin-top: 10px;
+                        margin-top: 10px;
+                            margin-left: 10px;
+                                display: flex;
+                                    justify-content: center; /* horizontal */
+                                        align-items: center;     /* vertical */
+                        
+ 
+
+}
+
+#box555{
+    background-color: blue;
+        height: 350px;
+            border-radius: 10px;
+                margin-top: 10px;
+                    display: flex;
+                            justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+
+
+}
+
+#box666{
+    background-color: deeppink;
+        width: 289px; /* Define a largura para - pixels */
+            height: 170px; /* Define a altura para 150 pixels */
+                border-radius: 10px;
+                    margin: 10px;
+                        display: flex;
+                            justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+}
+
+#box777{
+    background-color: darkolivegreen;
+        height: 170px;
+            width: 651px;
+                border-radius: 10px;
+                    margin-top: 20px;
+                        display: flex;
+                            justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+    
+}
+
+#box888{
+    background-color: rgb(220, 20, 210);
+        width: 70%;
+            height: 128px;
+                border-radius: 10px;
+                    display: flex;
+                            justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+                    
+                
+
+
+}
+
+#box999{
+    background-color: rgb(20, 213, 220);
+        width: 277px;
+            height: 128px;
+                border-radius: 10px;
+                        margin-left: 10px;
+                            display: flex;
+                                justify-content: center; /* horizontal */
+                                    align-items: center;     /* vertical */
+                            
+}
+
+
+
+
+
+
+

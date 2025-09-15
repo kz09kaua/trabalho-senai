@@ -1,0 +1,46 @@
+#ooo{
+    display: flex; 
+        justify-content: center;
+            align-items: center;
+
+}
+
+#box000{
+    background-color: aqua;
+        border: solid 2px black;
+            width: 45%;
+                height: 500px;
+                    margin-top: 150px;
+
+}
+
+#ttt{
+    display: flex;
+
+
+}
+
+#box111{
+    background-color: blueviolet; 
+        width: 99.3%;
+            height: 90px;
+                margin: 3px;
+
+}
+
+#box222{
+    background-color: brown;
+        width: 20%;
+            height: 400px; ;
+                margin-left: 3px;
+                    margin-right: 3px;
+
+}
+
+#box333{
+    background-color: chartreuse;
+        width: 80%;
+            height: 400px;
+                margin-right: 3px;
+
+}

@@ -1,0 +1,62 @@
+#ooo{
+    background-color: darkgray;
+        display: flex;
+            justify-content: center;
+            
+}
+
+#box000{
+    width: 55%;
+        height: 700px;
+            margin-top: 90px;
+
+}
+
+#box111{
+    margin: 10px;
+        background-color: blueviolet;
+            width: 65%;
+                height: 330px;
+                    
+}
+
+#box222{
+    background-color: chartreuse;
+        width: 35%;
+            height: 330px;
+                margin-top: 0px;
+                        margin-bottom: 0px;
+                        margin: 10px;
+                            margin-left: 0px;
+
+}
+
+#box333{
+    background-color: crimson;
+        width: 40%;
+            height: 340px;
+               margin-left: 10px;
+}
+
+#box444{
+    background-color: rgb(255, 0, 191);
+        width: 599px;
+            height: 165px;
+                margin-left: 10px;
+
+}
+
+#box555{
+    background-color: forestgreen;
+        width: 599px;
+            height: 165px;
+                margin-left: 10px;
+                    margin-top: 10px;
+
+}
+
+
+
+
+
+
